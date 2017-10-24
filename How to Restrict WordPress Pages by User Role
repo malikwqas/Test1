@@ -1,0 +1,28 @@
+Do you want to restrict WordPress pages by user role? 
+Many WordPress businesses need to control which users can access certain pages on their websites. 
+In this article, we will show you how to easily restrict access to certain WordPress pages by user role.
+
+
+Restricting WordPress Pages by User Role
+
+By default, WordPress comes with a limited set of tools to restrict content on your website. You can create private and password protected posts, but these features don’t allow you to limit access by user role.
+Luckily, there are several WordPress plugins that allow you to do just that. You can choose one of them to restrict pages to certain users, user groups, or user roles.
+Using these plugins, you can create a membership website, pay-per-view websites, or even family blogs. You can also monetize your content by adding paid subscriptions.
+That being said, let’s take a look at how to properly restrict WordPress pages by user role. We will be showing you different plugins, you can choose the one that best suits your needs.
+
+1. Restrict Content Pro
+
+
+Restricting Content Pro is a great option to control who has access to your website content. It also allows you to add paid subscriptions and make money online from your membership website.
+First, you will need to install and activate the Restrict Content Pro plugin. For more details, see our step by step guide on how to install a WordPress plugin.
+Upon activation, you need to visit Restrict » Settings page to enter your license key. You can get this key from your account on Restrict Content Pro website.
+
+Next, you need to switch to the payments tab to select a payment gateway.
+Restrict Content Pro allows you to accept payments through PayPal, Stripe, 2Checkout, Braintree, and Authorize.net.
+
+After selecting a payment method, you will be able to add credentials for each Payment method.
+Don’t forget to click on the save options button to store your settings.
+Now you need to edit the pages or posts you want to be restricted by user roles.
+On the edit screen, scroll down to ‘Restrict this content’ meta box and select ‘Members with certain role’ option.
+Choose the user role you want to allow and then update or publish your content.
+Restrict Content Pro also allows you to create subscription levels. For more detailed instructions, see our guide on how to restrict content to registered users in WordPress.
